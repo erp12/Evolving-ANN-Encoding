@@ -6,4 +6,4 @@ I have designed an encoding for artificial neural network topologies that can be
 The code in this repo is a place to store my Push instructions for creating encoded topologies until Cloann is ready to be fully integrated with Clojush.
 
 ## Usage
-Evaluate the code in core.clj and the output should be a random netowrk encoding!
+Evaluate the code in core.clj and the output should be a random network encoding!
